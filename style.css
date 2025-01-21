@@ -154,7 +154,10 @@ nav{
 	display: flex;
 	flex-direction:flex;
 	justify-content: center;
-	padding-top: 20px;
+    gap: 20px;
+	padding: 50px;
+    width: 100%;
+    
 }
 
 .evidence img{
